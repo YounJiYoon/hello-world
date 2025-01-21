@@ -1,6 +1,6 @@
 # Hello World 홈페이지 입니다.
 ## 안녕하세요 윤지윤입니다.
-<img src=""/><br>
+<img src="jakeimage.jpg"/><br>
 
 ## 즐겨찾기
 [네이버 링크 입니다.](https://www.naver.com).
