@@ -1,7 +1,7 @@
 # Hello World 홈페이지
 ## 안녕하세요 윤지윤 입니다.
- <img src="파도.jpg" width="200" height="200" border="10"/><br>
- ###### 파도처럼 너에게 가겠다.
+<img src="파도.jpg" width="200" height="200" border="10"/><br>
+###### 파도처럼 너에게 가겠다.
 
 ## 즐겨찾기
  [네이버 링크](https://www.naver.com)링크링크.<br>[구글 링크](https://www.google.com)<br>[혅](https://rustylake92.github.io/hello-world/)<br>[혦](https://hm0o0b.github.io/helloworld/)
@@ -27,4 +27,4 @@ test repository
 * 곱하기
   + 더하기
      - 빼기
-   
+
